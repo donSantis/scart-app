@@ -1,0 +1,7 @@
+{
+  "name": "scart-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
